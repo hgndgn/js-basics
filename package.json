@@ -1,0 +1,26 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hgndgn",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -p tsconfig.json && node ./out/index.js"
+  },
+  "devDependencies": {
+    "@types/eslint": "^6.1.1",
+    "@types/node": "^13.1.6",
+    "@typescript-eslint/eslint-plugin": "^5.2.0",
+    "@typescript-eslint/parser": "^5.2.0",
+    "eslint": "^8.1.0",
+    "prettier": "^1.19.1",
+    "ts-node": "^8.4.1",
+    "tsc-watch": "^4.0.0",
+    "tslint": "^5.20.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.3"
+  },
+  "prettier": {
+    "singleQuote": false
+  }
+}
