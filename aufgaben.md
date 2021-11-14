@@ -3,17 +3,7 @@
 1. **Erstelle ein Array = [1,2,3,4,5,6,7,8,9,10] und gebe jedes zweite Element aus.**
 
 2. **Erstelle ein Array = [12,423,528,91,100] und gib zuerst die geraden, dann die ungeraden Zahlen aus.** <br>
-*Beispiel: <br>
-  UNGERADE <br>
-  1 <br>
-  3 <br>
-  5 <br>
-  7 <br>
-  GERADE <br>
-  2 <br>
-  4 <br>
-  6 <br>
-  8 <br>*
+
 
 3. **Gib das kleinste und das größte Zahle des obigen Arrays aus.**
 
